@@ -26,7 +26,7 @@ export default function RootLayout({
             <header className="border-b">
               <div className="max-w-[1200px] mx-auto px-4 py-4 flex justify-between items-center">
                 <Link href="/" className="text-2xl font-bold">
-                  RateIt
+                  DineFind
                 </Link>
                 <AuthButton />
               </div>
